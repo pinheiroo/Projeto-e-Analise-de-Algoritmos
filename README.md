@@ -33,3 +33,15 @@ Saída
 Para cada caso de teste, imprima uma linha contendo o maior número possível de pacotes que podem ser comprados.
 
 Arquivo de testes: testemorango.txt
+
+Exercicio barriga.py e barriga-memo.py - 1913 beecrowd:
+
+Entrada
+A entrada contém vários casos de teste. A primeira linha de cada caso de teste contém um inteiro N (1 ≤ N ≤ 10³ ), que representa a quantidade de cilindros dispostos sobre a mesa, seguem N linhas, cada linha contendo a altura h (1 ≤ h ≤ 1000) do cilindro em centimetros, o raio r (1 ≤ r ≤ 1000) da base do cilindro e uma palavra p representando a cor do cilindro. A palavra pode ser: VERMELHO, LARANJA, VERDE ou AZUL.
+
+O fim da entrada é indicado quando N == 0, a qual não deverá ser processada.
+
+Saída
+Para cada caso de teste, seu programa deverá imprimir uma única linha com o valor da altura da maior torre de cilindros que pode ser construída, seguido da palavra “centimetro(s)”.
+
+Arquivo de testes: testebarriga.txt
